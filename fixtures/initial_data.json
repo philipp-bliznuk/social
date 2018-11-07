@@ -1,0 +1,14 @@
+[{
+	"model": "api.user",
+	"pk": 1,
+	"fields": {
+		"password": "pbkdf2_sha256$120000$1bIBPxVcXb7E$5XB6cyG/PrVtZ6XWcCvCBy7URZSIbEOqYfJgb0+NbrE=",
+		"last_login": "2018-11-06T10:14:12.403Z",
+		"email": "admin@example.com",
+		"full_name": "Admin",
+		"is_active": true,
+		"is_admin": true,
+		"person": null,
+		"company": null
+	}
+}]
