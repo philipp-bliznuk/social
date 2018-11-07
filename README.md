@@ -39,3 +39,5 @@ $ ./manage.py bot
 ```
 
 Config for automated bot you can find in `bot.ini` file in root directory.
+To verify result you can go to [http://localhost:8000/admin/](http://localhost:8000/admin/)
+Default admin account: `admin@example.com`/`admin`
